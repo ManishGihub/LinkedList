@@ -20,6 +20,7 @@ public class ReverseLL{
 
     //Add first
     public void addFirst(int data){
+        
         Node newNode = new Node(data);
         if(head == null){
             head = newNode;
