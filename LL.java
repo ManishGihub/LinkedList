@@ -34,6 +34,7 @@ public class LL{
 
     //Add last
     public void addLast(String data){
+        
         Node newNode = new Node(data);
         if(head == null){
             head = newNode;
