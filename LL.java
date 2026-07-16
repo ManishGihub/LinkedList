@@ -50,6 +50,7 @@ public class LL{
 
     //Print list
     public void printList(){
+        
         if(head == null){
             System.out.println("The list is empty");
             return;
