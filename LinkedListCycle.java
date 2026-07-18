@@ -1,3 +1,5 @@
+//Return true if there is a cycle in the linked list. Otherwise, return false.
+
 /**
  * Definition for singly-linked list.
  * class ListNode {
